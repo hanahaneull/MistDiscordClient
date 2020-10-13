@@ -3,3 +3,4 @@ Since we discontinued it a while ago before we started working on the rewrite ca
 
 # Note
 I will not tell you how to set this up, also please don't skid off this. Most credits goto https://github.com/joe27g/EnhancedDiscord for code to study from in this client.
+(Most of this code didn't use the webpack modules, so have fun laughing at that)
